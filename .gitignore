@@ -1,0 +1,9 @@
+
+.scala_dependencies
+.worksheet
+*.idea
+*.iml
+*.classpath
+*.settings
+*.project
+*.directory
